@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 250px;
+    margin: 60px 0 0 60px;
+}
+
+label{
+    display: inline-block;
+    width: 90px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+input[type=radio]{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+
+#result {
+    font-size: 20px;
+}
